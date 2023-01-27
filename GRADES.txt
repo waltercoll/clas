@@ -1,0 +1,17 @@
+NAMES                            DEPARTMENTS                       GRADES
+Isaiah  Conteh                     BIT                              3.48
+Sheka Kargbo                      M.I.S                             3.35
+Henry Kai Tongi                   M.I.S                             3.42
+Kelvin Kamar                     COMPUTER SCIENCE                   3.78
+Isatu Jalloh                      COMPUTER SCIENCE                  4.43
+Sia Kanawa                        M.I.S                             2.78
+Lamin Turay                       B.B.A                             3.79
+Fabba Contech                     B.B.A                             3.45
+Santigie Kamara                   M.I.S                             3.57
+Kanu Sesay                        H.R.M                             2.78
+Junior Davies                     H.R.M                             2.75
+Joseph Kamara                    ACCOUNTING                         4.52
+Sorie Sesay                      ACCOUNTING                         2.74
+Momdu Bangura                    MINING                             3.72
+Anthony Bangura                  MINING                             3.42
+Violet Cole                      H.R.M                              4.15
